@@ -1,0 +1,191 @@
+09-08-2024 15:34:06 INFO Successfully navigated to: https://automationintesting.online/ using chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:06 INFO An element was successfully found using the locator By: id, Value: collapseBanner in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:07 INFO The chrome browser (Version 127.0.6533.100) on windows has been successfully closed.
+09-08-2024 15:34:07 INFO ====== WebDriver manager ======
+09-08-2024 15:34:08 INFO Get LATEST chromedriver version for google-chrome
+09-08-2024 15:34:08 INFO Get LATEST chromedriver version for google-chrome
+09-08-2024 15:34:08 INFO Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\127.0.6533.99\chromedriver-win32/chromedriver.exe] found in cache
+09-08-2024 15:34:11 INFO Successfully navigated to: https://automationintesting.online/ using chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:11 INFO An element was successfully found using the locator By: css selector, Value: .hotel-description in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:11 WARNING The description is not correct: Actual:
+09-08-2024 15:34:11 INFO The chrome browser (Version 127.0.6533.100) on windows has been successfully closed.
+09-08-2024 15:34:11 INFO ====== WebDriver manager ======
+09-08-2024 15:34:12 INFO Get LATEST chromedriver version for google-chrome
+09-08-2024 15:34:12 INFO Get LATEST chromedriver version for google-chrome
+09-08-2024 15:34:13 INFO Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\127.0.6533.99\chromedriver-win32/chromedriver.exe] found in cache
+09-08-2024 15:34:15 INFO Successfully navigated to: https://automationintesting.online/ using chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:15 INFO An element was successfully found using the locator By: css selector, Value: .room-header h2 in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:15 INFO The chrome browser (Version 127.0.6533.100) on windows has been successfully closed.
+09-08-2024 15:34:15 INFO ====== WebDriver manager ======
+09-08-2024 15:34:16 INFO Get LATEST chromedriver version for google-chrome
+09-08-2024 15:34:17 INFO Get LATEST chromedriver version for google-chrome
+09-08-2024 15:34:17 INFO Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\127.0.6533.99\chromedriver-win32/chromedriver.exe] found in cache
+09-08-2024 15:34:22 INFO Successfully navigated to: https://automationintesting.online/ using chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:22 INFO An element was successfully found using the locator By: css selector, Value: .openBooking in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:22 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="e60261017aa75dbef44b5c71f982c312", element="f.87152AD4D1C300D32B99F9FB00E33611.d.C5C8CF83E79D92A416CBE60F106D9CB6.e.17")>' was successfully clicked in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:22 INFO An element was successfully found using the locator By: css selector, Value: .room-firstname in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:22 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="e60261017aa75dbef44b5c71f982c312", element="f.87152AD4D1C300D32B99F9FB00E33611.d.C5C8CF83E79D92A416CBE60F106D9CB6.e.26")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:22 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="e60261017aa75dbef44b5c71f982c312", element="f.87152AD4D1C300D32B99F9FB00E33611.d.C5C8CF83E79D92A416CBE60F106D9CB6.e.26")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:22 INFO An element was successfully found using the locator By: css selector, Value: .room-lastname in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:22 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="e60261017aa75dbef44b5c71f982c312", element="f.87152AD4D1C300D32B99F9FB00E33611.d.C5C8CF83E79D92A416CBE60F106D9CB6.e.28")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:23 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="e60261017aa75dbef44b5c71f982c312", element="f.87152AD4D1C300D32B99F9FB00E33611.d.C5C8CF83E79D92A416CBE60F106D9CB6.e.28")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:23 INFO An element was successfully found using the locator By: css selector, Value: .room-email in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:23 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="e60261017aa75dbef44b5c71f982c312", element="f.87152AD4D1C300D32B99F9FB00E33611.d.C5C8CF83E79D92A416CBE60F106D9CB6.e.29")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:23 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="e60261017aa75dbef44b5c71f982c312", element="f.87152AD4D1C300D32B99F9FB00E33611.d.C5C8CF83E79D92A416CBE60F106D9CB6.e.29")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:23 INFO An element was successfully found using the locator By: css selector, Value: .room-phone in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:23 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="e60261017aa75dbef44b5c71f982c312", element="f.87152AD4D1C300D32B99F9FB00E33611.d.C5C8CF83E79D92A416CBE60F106D9CB6.e.30")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:24 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="e60261017aa75dbef44b5c71f982c312", element="f.87152AD4D1C300D32B99F9FB00E33611.d.C5C8CF83E79D92A416CBE60F106D9CB6.e.30")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:24 INFO An element was successfully found using the locator By: css selector, Value: .btn-outline-primary.book-room in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:24 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="e60261017aa75dbef44b5c71f982c312", element="f.87152AD4D1C300D32B99F9FB00E33611.d.C5C8CF83E79D92A416CBE60F106D9CB6.e.38")>' was successfully clicked in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:25 INFO An element was successfully found using the locator By: css selector, Value: .alert-danger in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:25 INFO The chrome browser (Version 127.0.6533.100) on windows has been successfully closed.
+09-08-2024 15:34:25 INFO ====== WebDriver manager ======
+09-08-2024 15:34:26 INFO Get LATEST chromedriver version for google-chrome
+09-08-2024 15:34:27 INFO Get LATEST chromedriver version for google-chrome
+09-08-2024 15:34:27 INFO Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\127.0.6533.99\chromedriver-win32/chromedriver.exe] found in cache
+09-08-2024 15:34:28 INFO Successfully navigated to: https://automationintesting.online/ using chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:49 INFO An element was successfully found using the locator By: css selector, Value: .openBooking in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:49 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="2c76b9144d3339ff42090ca76ec4251a", element="f.F2CC9E29E5C9A81C4524CA746F23FB92.d.FC216229EB20ABFC6531D01ED204A273.e.7")>' was successfully clicked in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:49 INFO An element was successfully found using the locator By: css selector, Value: .room-firstname in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:50 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="2c76b9144d3339ff42090ca76ec4251a", element="f.F2CC9E29E5C9A81C4524CA746F23FB92.d.FC216229EB20ABFC6531D01ED204A273.e.14")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:50 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="2c76b9144d3339ff42090ca76ec4251a", element="f.F2CC9E29E5C9A81C4524CA746F23FB92.d.FC216229EB20ABFC6531D01ED204A273.e.14")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:50 INFO An element was successfully found using the locator By: css selector, Value: .room-lastname in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:50 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="2c76b9144d3339ff42090ca76ec4251a", element="f.F2CC9E29E5C9A81C4524CA746F23FB92.d.FC216229EB20ABFC6531D01ED204A273.e.16")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:50 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="2c76b9144d3339ff42090ca76ec4251a", element="f.F2CC9E29E5C9A81C4524CA746F23FB92.d.FC216229EB20ABFC6531D01ED204A273.e.16")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:50 INFO An element was successfully found using the locator By: css selector, Value: .room-email in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:50 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="2c76b9144d3339ff42090ca76ec4251a", element="f.F2CC9E29E5C9A81C4524CA746F23FB92.d.FC216229EB20ABFC6531D01ED204A273.e.17")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:50 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="2c76b9144d3339ff42090ca76ec4251a", element="f.F2CC9E29E5C9A81C4524CA746F23FB92.d.FC216229EB20ABFC6531D01ED204A273.e.17")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:50 INFO An element was successfully found using the locator By: css selector, Value: .room-phone in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:50 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="2c76b9144d3339ff42090ca76ec4251a", element="f.F2CC9E29E5C9A81C4524CA746F23FB92.d.FC216229EB20ABFC6531D01ED204A273.e.18")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:50 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="2c76b9144d3339ff42090ca76ec4251a", element="f.F2CC9E29E5C9A81C4524CA746F23FB92.d.FC216229EB20ABFC6531D01ED204A273.e.18")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:50 INFO An element was successfully found using the locator By: css selector, Value: .btn-outline-primary.book-room in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:34:51 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="2c76b9144d3339ff42090ca76ec4251a", element="f.F2CC9E29E5C9A81C4524CA746F23FB92.d.FC216229EB20ABFC6531D01ED204A273.e.25")>' was successfully clicked in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:01 INFO Exception occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".alert-danger"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00398923+23283]
+	(No symbol) [0x0035E934]
+	(No symbol) [0x00290733]
+	(No symbol) [0x002D326F]
+	(No symbol) [0x002D34AB]
+	(No symbol) [0x0030EE42]
+	(No symbol) [0x002F4464]
+	(No symbol) [0x0030CB8D]
+	(No symbol) [0x002F41B6]
+	(No symbol) [0x002C8017]
+	(No symbol) [0x002C890D]
+	GetHandleVerifier [0x0048A5E3+1013683]
+	GetHandleVerifier [0x00493E3C+1052684]
+	GetHandleVerifier [0x0048D4A4+1025652]
+	GetHandleVerifier [0x003BEA2B+179195]
+	(No symbol) [0x00366833]
+	(No symbol) [0x00363198]
+	(No symbol) [0x00363337]
+	(No symbol) [0x0035B4BE]
+	BaseThreadInitThunk [0x77637BA9+25]
+	RtlInitializeExceptionChain [0x77DBC10B+107]
+	RtlClearBits [0x77DBC08F+191]
+ in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:01 INFO The corresponding element is missing
+09-08-2024 15:35:01 INFO The chrome browser (Version 127.0.6533.100) on windows has been successfully closed.
+09-08-2024 15:35:01 INFO ====== WebDriver manager ======
+09-08-2024 15:35:02 INFO Get LATEST chromedriver version for google-chrome
+09-08-2024 15:35:03 INFO Get LATEST chromedriver version for google-chrome
+09-08-2024 15:35:03 INFO Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\127.0.6533.99\chromedriver-win32/chromedriver.exe] found in cache
+09-08-2024 15:35:06 INFO Successfully navigated to: https://automationintesting.online/ using chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:06 INFO An element was successfully found using the locator By: css selector, Value: [data-testid='ContactName'] in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:06 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="6995647c5c503770fe93fafb14067cf9", element="f.E73B363ACD283A7E1572102FDA5FF97A.d.5960CEBDEB2C57DA98EDAAD7EEABCE88.e.16")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:06 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="6995647c5c503770fe93fafb14067cf9", element="f.E73B363ACD283A7E1572102FDA5FF97A.d.5960CEBDEB2C57DA98EDAAD7EEABCE88.e.16")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:06 INFO An element was successfully found using the locator By: css selector, Value: [data-testid='ContactEmail'] in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:06 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="6995647c5c503770fe93fafb14067cf9", element="f.E73B363ACD283A7E1572102FDA5FF97A.d.5960CEBDEB2C57DA98EDAAD7EEABCE88.e.18")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:06 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="6995647c5c503770fe93fafb14067cf9", element="f.E73B363ACD283A7E1572102FDA5FF97A.d.5960CEBDEB2C57DA98EDAAD7EEABCE88.e.18")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:06 INFO An element was successfully found using the locator By: css selector, Value: [data-testid='ContactPhone'] in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:06 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="6995647c5c503770fe93fafb14067cf9", element="f.E73B363ACD283A7E1572102FDA5FF97A.d.5960CEBDEB2C57DA98EDAAD7EEABCE88.e.19")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:07 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="6995647c5c503770fe93fafb14067cf9", element="f.E73B363ACD283A7E1572102FDA5FF97A.d.5960CEBDEB2C57DA98EDAAD7EEABCE88.e.19")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:07 INFO An element was successfully found using the locator By: css selector, Value: [data-testid='ContactSubject'] in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:07 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="6995647c5c503770fe93fafb14067cf9", element="f.E73B363ACD283A7E1572102FDA5FF97A.d.5960CEBDEB2C57DA98EDAAD7EEABCE88.e.20")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:07 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="6995647c5c503770fe93fafb14067cf9", element="f.E73B363ACD283A7E1572102FDA5FF97A.d.5960CEBDEB2C57DA98EDAAD7EEABCE88.e.20")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:07 INFO An element was successfully found using the locator By: css selector, Value: [data-testid='ContactDescription'] in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:07 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="6995647c5c503770fe93fafb14067cf9", element="f.E73B363ACD283A7E1572102FDA5FF97A.d.5960CEBDEB2C57DA98EDAAD7EEABCE88.e.21")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:08 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="6995647c5c503770fe93fafb14067cf9", element="f.E73B363ACD283A7E1572102FDA5FF97A.d.5960CEBDEB2C57DA98EDAAD7EEABCE88.e.21")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:08 INFO An element was successfully found using the locator By: id, Value: submitContact in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:08 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="6995647c5c503770fe93fafb14067cf9", element="f.E73B363ACD283A7E1572102FDA5FF97A.d.5960CEBDEB2C57DA98EDAAD7EEABCE88.e.40")>' was successfully clicked in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:18 INFO Exception occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".alert-danger"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00398923+23283]
+	(No symbol) [0x0035E934]
+	(No symbol) [0x00290733]
+	(No symbol) [0x002D326F]
+	(No symbol) [0x002D34AB]
+	(No symbol) [0x0030EE42]
+	(No symbol) [0x002F4464]
+	(No symbol) [0x0030CB8D]
+	(No symbol) [0x002F41B6]
+	(No symbol) [0x002C8017]
+	(No symbol) [0x002C890D]
+	GetHandleVerifier [0x0048A5E3+1013683]
+	GetHandleVerifier [0x00493E3C+1052684]
+	GetHandleVerifier [0x0048D4A4+1025652]
+	GetHandleVerifier [0x003BEA2B+179195]
+	(No symbol) [0x00366833]
+	(No symbol) [0x00363198]
+	(No symbol) [0x00363337]
+	(No symbol) [0x0035B4BE]
+	BaseThreadInitThunk [0x77637BA9+25]
+	RtlInitializeExceptionChain [0x77DBC10B+107]
+	RtlClearBits [0x77DBC08F+191]
+ in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:18 INFO The corresponding element is missing
+09-08-2024 15:35:18 INFO An element was successfully found using the locator By: xpath, Value: (//div[@class='row contact']/div)[2] in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:19 INFO The chrome browser (Version 127.0.6533.100) on windows has been successfully closed.
+09-08-2024 15:35:19 INFO ====== WebDriver manager ======
+09-08-2024 15:35:19 INFO Get LATEST chromedriver version for google-chrome
+09-08-2024 15:35:20 INFO Get LATEST chromedriver version for google-chrome
+09-08-2024 15:35:20 INFO Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\127.0.6533.99\chromedriver-win32/chromedriver.exe] found in cache
+09-08-2024 15:35:23 INFO Successfully navigated to: https://automationintesting.online/ using chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:23 INFO An element was successfully found using the locator By: css selector, Value: [data-testid='ContactName'] in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:23 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="776d7813b4f24e1e9f96d56331c81578", element="f.9EE037F025AA30B184F124E8CC3721A9.d.378D19D4C10B73CBA1B22FC37EA35FE2.e.15")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:23 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="776d7813b4f24e1e9f96d56331c81578", element="f.9EE037F025AA30B184F124E8CC3721A9.d.378D19D4C10B73CBA1B22FC37EA35FE2.e.15")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:23 INFO An element was successfully found using the locator By: css selector, Value: [data-testid='ContactEmail'] in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:23 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="776d7813b4f24e1e9f96d56331c81578", element="f.9EE037F025AA30B184F124E8CC3721A9.d.378D19D4C10B73CBA1B22FC37EA35FE2.e.17")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:23 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="776d7813b4f24e1e9f96d56331c81578", element="f.9EE037F025AA30B184F124E8CC3721A9.d.378D19D4C10B73CBA1B22FC37EA35FE2.e.17")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:23 INFO An element was successfully found using the locator By: css selector, Value: [data-testid='ContactPhone'] in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:23 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="776d7813b4f24e1e9f96d56331c81578", element="f.9EE037F025AA30B184F124E8CC3721A9.d.378D19D4C10B73CBA1B22FC37EA35FE2.e.18")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:24 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="776d7813b4f24e1e9f96d56331c81578", element="f.9EE037F025AA30B184F124E8CC3721A9.d.378D19D4C10B73CBA1B22FC37EA35FE2.e.18")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:24 INFO An element was successfully found using the locator By: css selector, Value: [data-testid='ContactSubject'] in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:24 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="776d7813b4f24e1e9f96d56331c81578", element="f.9EE037F025AA30B184F124E8CC3721A9.d.378D19D4C10B73CBA1B22FC37EA35FE2.e.19")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:24 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="776d7813b4f24e1e9f96d56331c81578", element="f.9EE037F025AA30B184F124E8CC3721A9.d.378D19D4C10B73CBA1B22FC37EA35FE2.e.19")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:24 INFO An element was successfully found using the locator By: css selector, Value: [data-testid='ContactDescription'] in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:24 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="776d7813b4f24e1e9f96d56331c81578", element="f.9EE037F025AA30B184F124E8CC3721A9.d.378D19D4C10B73CBA1B22FC37EA35FE2.e.20")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:24 INFO The value of the element '<selenium.webdriver.remote.webelement.WebElement (session="776d7813b4f24e1e9f96d56331c81578", element="f.9EE037F025AA30B184F124E8CC3721A9.d.378D19D4C10B73CBA1B22FC37EA35FE2.e.20")>' was successfully changed in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:24 INFO An element was successfully found using the locator By: id, Value: submitContact in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:24 INFO The element '<selenium.webdriver.remote.webelement.WebElement (session="776d7813b4f24e1e9f96d56331c81578", element="f.9EE037F025AA30B184F124E8CC3721A9.d.378D19D4C10B73CBA1B22FC37EA35FE2.e.31")>' was successfully clicked in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:34 INFO Exception occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".alert-danger"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00398923+23283]
+	(No symbol) [0x0035E934]
+	(No symbol) [0x00290733]
+	(No symbol) [0x002D326F]
+	(No symbol) [0x002D34AB]
+	(No symbol) [0x0030EE42]
+	(No symbol) [0x002F4464]
+	(No symbol) [0x0030CB8D]
+	(No symbol) [0x002F41B6]
+	(No symbol) [0x002C8017]
+	(No symbol) [0x002C890D]
+	GetHandleVerifier [0x0048A5E3+1013683]
+	GetHandleVerifier [0x00493E3C+1052684]
+	GetHandleVerifier [0x0048D4A4+1025652]
+	GetHandleVerifier [0x003BEA2B+179195]
+	(No symbol) [0x00366833]
+	(No symbol) [0x00363198]
+	(No symbol) [0x00363337]
+	(No symbol) [0x0035B4BE]
+	BaseThreadInitThunk [0x77637BA9+25]
+	RtlInitializeExceptionChain [0x77DBC10B+107]
+	RtlClearBits [0x77DBC08F+191]
+ in chrome driver (Version 127.0.6533.100) on windows
+09-08-2024 15:35:34 INFO The corresponding element is missing
+09-08-2024 15:35:35 INFO The chrome browser (Version 127.0.6533.100) on windows has been successfully closed.
