@@ -1,4 +1,5 @@
 *.log
+*.html
 *.xml
 .idea/
 *.pyc
