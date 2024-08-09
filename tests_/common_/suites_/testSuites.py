@@ -4,6 +4,7 @@ from tests_.testCases_.contentCorrectnessTests_.contentCorrectnessTests import C
 from tests_.testCases_.bookingCreationTests_.bookingCreationTests import BookingCreationTests
 from tests_.testCases_.communicationWithSupportTests_.userReportTests import UserReportTests
 from tests_.testCases_.apiTests_.authenticationApiTests import AuthenticationApiTests
+from tests_.testCases_.adminPanelTests_.loginToAdminPanelTests import LoginToAdminPanelTests
 
 
 class TestSuites:
@@ -26,6 +27,8 @@ class TestSuites:
         suite.addTest(AuthenticationApiTests("test_logout_endpoint_request_with_invalid_data"))
         suite.addTest(AuthenticationApiTests("test_validate_endpoint_request_with_valid_data"))
         suite.addTest(AuthenticationApiTests("test_validate_endpoint_request_with_invalid_data"))
+        suite.addTest(LoginToAdminPanelTests("test_login_with_valid_data"))
+        suite.addTest(LoginToAdminPanelTests("test_login_with_invalid_data"))
 
         return suite
 

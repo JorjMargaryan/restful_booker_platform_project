@@ -14,6 +14,7 @@ class HomePage(BasePage):
         super().__init__(driver)
         self.__headerBannerLocator = (By.ID, "collapseBanner")
         self.__pageDescriptionLocator = (By.CSS_SELECTOR, ".hotel-description")
+        self.__adminPanelButtonLocator = (By.CSS_SELECTOR, "[alt='Link to admin page']")
 
     def is_header_banner_present(self):
         """
@@ -41,3 +42,10 @@ class HomePage(BasePage):
         except Exception as e:
             customLogger.logger("ERROR", f"{MessageCodes[UNEXPECTED_BEHAVIOR]} -  {str(e)}")
             exit(UNEXPECTED_BEHAVIOR)
+
+    def click_to_admin_panel_button(self):
+        """
+            Clicks to the Admin panel button placed on the right side of the header banner.
+        """
+        adminPanelButtonElement = self._find_element(self.__adminPanelButtonLocator)
+        self._click_to_element(adminPanelButtonElement)
