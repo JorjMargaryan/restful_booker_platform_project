@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 import datetime
 
-from htmltestreport import HTMLTestReport
+from common_.reporters_.sources_.htmlTestRunner import HTMLTestRunner
 from xmlrunner import XMLTestRunner
 from common_.utilities_ import customLogger
 
@@ -53,8 +53,8 @@ class Reporters:
             reportFileName = self.__generate_report_file_name("html")
             # Create a report file and place it in the reports_ directory.(The format-rootDirectory/reports_/reportFileName )
             reportFile = open(os.path.join(reportsDirectory, reportFileName), "wb")
-            runner = HTMLTestReport(
-                file_path=reportFile,
+            runner = HTMLTestRunner(
+                stream=reportFile,
                 title=title,
                 description=description
             )
